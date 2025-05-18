@@ -54,15 +54,7 @@ I'm passionate about building robust and scalable applications that solve real-w
 <summary>🏆 Recent Projects</summary>
 <br>
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=BGeorgiev120&repo=PROJECT_NAME&theme=tokyonight)](https://github.com/BGeorgiev120/PROJECT_NAME)
-
-</details>
-
-<details>
-<summary>📈 Contribution Graph</summary>
-<br>
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=BGeorgiev120&theme=github)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=BGeorgiev120&repo=Rock-Paper-Scissors-Python-GUI&theme=tokyonight)](https://github.com/BGeorgiev120/Rock-Paper-Scissors-Python-GUI)
 
 </details>
 
@@ -70,9 +62,7 @@ I'm passionate about building robust and scalable applications that solve real-w
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURLINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOURTWITTER)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://YOURWEBSITE.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/bojkata120)
 
 ---
 
