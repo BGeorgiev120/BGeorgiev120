@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BGeorgiev120&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/BGeorgiev120?label=Follow&style=social)](https://github.com/BGeorgiev120)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](music.svg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](music.svg)
 ---
 
 ### My Journey into Development
