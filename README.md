@@ -77,4 +77,4 @@ Today, I’m a developer who not only writes code but understands it. And more i
 ⭐️ From [BGeorgiev120](https://github.com/BGeorgiev120)
 
 ---
-https://i.ibb.co/N2HRH2zq/lofi.gif
+![](https://i.ibb.co/N2HRH2zq/lofi.gif)
