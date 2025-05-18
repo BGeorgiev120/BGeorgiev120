@@ -1,4 +1,4 @@
-# 👋 Hi, I'm BGeorgiev120
+# 👋 Hi, I'm Bojidar Georgiev!
 
 ## 💼 Expirienced Developer
 
