@@ -1,10 +1,14 @@
 # 👋 Hi, I'm Bojidar Georgiev!
 
 ## 💼 Expirienced Developer
+**Profile Views**
 
-![Profile Views](https://komarev.com/ghpvc/?username=BGeorgiev120&color=brightgreen)
+<img src="https://profile-counter.glitch.me/BGeorgiev120/count.svg" alt="profile counter">
+
 [![GitHub followers](https://img.shields.io/github/followers/BGeorgiev120?label=Follow&style=social)](https://github.com/BGeorgiev120)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](music.svg)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](music.svg)
 ---
 
 ### My Journey into Development
