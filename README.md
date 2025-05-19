@@ -1,27 +1,33 @@
+
+
 # 👋 Hi, I'm Bojidar Georgiev!
 
-## 💼 Expirienced Developer
+## 💼 Experienced Developer
+<div align="center">
+  
 **Profile Views**
 
 <img src="https://profile-counter.glitch.me/BGeorgiev120/count.svg" alt="profile counter">
 
 [![GitHub followers](https://img.shields.io/github/followers/BGeorgiev120?label=Follow&style=social)](https://github.com/BGeorgiev120)
 
+![](music.svg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](music.svg)
 ---
 
 ### My Journey into Development
 
+</div>
+
 It all started with a simple goal: finding a fun Minecraft server to play on. Like many kids, I was just exploring the world of gaming — but curiosity quickly turned into creation. I began experimenting, eventually building my own Minecraft servers, filled with unique ideas and custom features. What began as a hobby turned into a passion, and I became a professional Minecraft developer.
 
-As I grew older, I realized it wasn’t just about games — it was about code. Programming captured my interest far beyond game mechanics. After countless tutorials, trial and error, and more copy-pasting than I’d like to admit, something clicked: I finally understood what I was actually writing. Code started making sense, and the real journey began.
+As I grew older, I realized it wasn't just about games — it was about code. Programming captured my interest far beyond game mechanics. After countless tutorials, trial and error, and more copy-pasting than I'd like to admit, something clicked: I finally understood what I was actually writing. Code started making sense, and the real journey began.
 
 My life took another turn when faith became a central part of it. Jesus entered my life, and I began to see how I was spending my time. Video games were fun, but they were also a distraction from something greater. I chose to step away from professional Minecraft development and pursue something deeper — a true career in software development.
 
-Today, I’m a developer who not only writes code but understands it. And more importantly, I aim to build things that matter.
+Today, I'm a developer who not only writes code but understands it. And more importantly, I aim to build things that matter.
 
-
+<div align="center">
 
 ---
 
@@ -77,3 +83,5 @@ Today, I’m a developer who not only writes code but understands it. And more i
 
 ---
 ![](https://i.ibb.co/N2HRH2zq/lofi.gif)
+
+</div>
