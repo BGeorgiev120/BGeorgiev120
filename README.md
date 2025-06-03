@@ -1,8 +1,10 @@
-
-
 # 👋 Hi, I'm Bojidar Georgiev!
 
 ## 💼 Experienced Developer
+
+![DEV](https://img.shields.io/badge/Dev-Bojidar%20Georgiev%20-%20%2347b3ff)
+
+
 <div align="center">
   
 **Profile Views**
