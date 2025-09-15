@@ -1,19 +1,8 @@
-# 👋 Hi, I'm Bojidar Georgiev!
-
-## 💼 Junior Developer
-
-![DEV](https://img.shields.io/badge/Dev-Bojidar%20Georgiev%20-%20%2347b3ff)
+# 👋 Hey, I'm Bojidar Georgiev! [![GitHub followers](https://img.shields.io/github/followers/BGeorgiev120?label=Follow&style=social)](https://github.com/BGeorgiev120)
 
 
+## 💼 Junior Developer 
 <div align="center">
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=BGeorgiev120)
-
-[![GitHub followers](https://img.shields.io/github/followers/BGeorgiev120?label=Follow&style=social)](https://github.com/BGeorgiev120)
-
-![](music.svg)
-
----
 
 ### My Journey into Development
 
@@ -30,10 +19,15 @@ Today, I'm a developer who not only writes code but understands it. And more imp
 <div align="center">
 
 ---
+![](music.svg)
+
+---
 
 <details>
 <summary>📊 GitHub Stats</summary>
 <br>
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=BGeorgiev120)
 
 ![BGeorgiev120's GitHub stats](https://github-readme-stats.vercel.app/api?username=BGeorgiev120&show_icons=true&theme=tokyonight)
 
@@ -45,9 +39,9 @@ Today, I'm a developer who not only writes code but understands it. And more imp
 
 <details>
 <summary>🛠️ Skills & Technologies</summary>
-<br>
 
-#### Languages
+#### Languages 
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 #### Tools & Platforms
@@ -55,15 +49,14 @@ Today, I'm a developer who not only writes code but understands it. And more imp
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS-Code-0078D7?labelColor=003C61)
 
-
-
 </details>
 
 <details>
 <summary>🏆 Recent Projects</summary>
 <br>
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=BGeorgiev120&repo=Rock-Paper-Scissors-Python-GUI&theme=tokyonight)](https://github.com/BGeorgiev120/Rock-Paper-Scissors-Python-GUI)
+
+<!-- [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=BGeorgiev120&repo=Rock-Paper-Scissors-Python-GUI&theme=tokyonight)](https://github.com/BGeorgiev120/Rock-Paper-Scissors-Python-GUI) -->
 
 </details>
 
@@ -78,6 +71,5 @@ Today, I'm a developer who not only writes code but understands it. And more imp
 ⭐️ From [BGeorgiev120](https://github.com/BGeorgiev120)
 
 ---
-![](https://i.ibb.co/N2HRH2zq/lofi.gif)
 
 </div>
