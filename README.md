@@ -9,7 +9,7 @@
   
 **Profile Views**
 
-<img src="https://profile-counter.glitch.me/BGeorgiev120/count.svg" alt="profile counter">
+![](https://komarev.com/ghpvc/?BGeorgiev120&color=blueviolet)
 
 [![GitHub followers](https://img.shields.io/github/followers/BGeorgiev120?label=Follow&style=social)](https://github.com/BGeorgiev120)
 
