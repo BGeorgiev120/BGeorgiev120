@@ -9,7 +9,7 @@
   
 **Profile Views**
 
-![](https://komarev.com/ghpvc/?BGeorgiev120&color=blueviolet)
+![](https://komarev.com/ghpvc/?BGeorgiev120)
 
 [![GitHub followers](https://img.shields.io/github/followers/BGeorgiev120?label=Follow&style=social)](https://github.com/BGeorgiev120)
 
